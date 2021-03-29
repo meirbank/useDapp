@@ -1,5 +1,5 @@
 {
-  "name": "@usedapp/example",
+  "name": "usedapp-web3-starter",
   "version": "0.1.1",
   "private": true,
   "scripts": {
@@ -36,5 +36,14 @@
     "webpack": "^4.44.2",
     "webpack-cli": "^4.1.0",
     "webpack-dev-server": "^3.11.0"
-  }
+  },
+  "keywords": [
+    "web3",
+    "ethereum",
+    "web3-react",
+    "dapp",
+    "hooks",
+    "ethers"
+  ],
+  "description": "Easy to fork/develop playground for building web3 dapps using useDapp package"
 }
